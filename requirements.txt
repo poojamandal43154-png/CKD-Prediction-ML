@@ -1,4 +1,7 @@
 streamlit
 pandas
-scikit-learn
 joblib
+scikit-learn
+transformers==5.18.0
+torch==2.14.1
+sentencepiece
